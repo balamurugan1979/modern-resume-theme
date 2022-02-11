@@ -10,7 +10,7 @@ name: Balamurugan
 title: Python | Data Scientist 
 email: balamurugan_g@hotmail.com
 # email_title: Email (Email title override)
-phone: 042358772
+phone: 0423587727
 # phone_title: Phone (Phone title override)
 website: www.abacusautobeads.com
 # website_title: Web (Website title override)
@@ -28,9 +28,8 @@ about_profile_image: Directory of profile imag (eg. images/profile.jpg)
 about_content: Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist and handled various roles like Technical Architect, Technical Lead, Technical engineer, Software Engineer, 
 and Application Support Engineer.
 
-
 content:
-  - title: Projects # Title for the section
+  - title: pro # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
