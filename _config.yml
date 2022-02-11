@@ -21,6 +21,7 @@ darkmode: false
 # Social links
 linkedin_username: https://www.linkedin.com/in/balamurugan-gnanasekaran-6bb0bb17/
 youtube_username: https://www.youtube.com/channel/UCcUEi-0ppMFqKsmXh0wwYhQ
+skype_username: balamurugan.gnanasekaran1
 
 # Additional icon links
 additional_links:
@@ -41,13 +42,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist and handled various roles like Technical Architect, Technical Lead, Technical engineer, Software Engineer, 
+and Application Support Engineer.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
