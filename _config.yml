@@ -8,19 +8,19 @@ version: 2
 # Personal info
 name: Balamurugan
 title: Python | Data Scientist 
-email: balamurugan_g@hotmail.com (optional)
+email: balamurugan_g@hotmail.com
 # email_title: Email (Email title override)
-phone: 0423587727 (optional)
+phone: 0423587727
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: www.abacusautobeads.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-linkedin_username: jekyll
-youtube_username: jekyll
+linkedin_username: https://www.linkedin.com/in/balamurugan-gnanasekaran-6bb0bb17/
+youtube_username: https://www.youtube.com/channel/UCcUEi-0ppMFqKsmXh0wwYhQ
 
 # Additional icon links
 additional_links:
