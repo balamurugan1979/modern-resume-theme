@@ -40,9 +40,8 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | 
-    Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist and handled various roles like Technical Architect, Technical Lead, Technical engineer, Software Engineer, 
+about_profile_image: Directory of profile imag (eg. images/profile.jpg)
+about_content: Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist and handled various roles like Technical Architect, Technical Lead, Technical engineer, Software Engineer, 
 and Application Support Engineer.
 
 
