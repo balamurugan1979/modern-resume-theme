@@ -6,11 +6,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Balamurugan
+title: Python | Data Scientist 
+email: balamurugan_g@hotmail.com (optional)
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 0423587727 (optional)
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -31,7 +31,7 @@ xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
 orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+googlescholar_username: D847cGs
 
 # Additional icon links
 additional_links:
