@@ -23,12 +23,11 @@ linkedin_username: https://www.linkedin.com/in/balamurugan-gnanasekaran-6bb0bb17
 youtube_username: https://www.youtube.com/channel/UCcUEi-0ppMFqKsmXh0wwYhQ
 
 # About Section
-about_title: About M
-about_profile_image: Directory of profile imag (eg. images/profile.jpg)
-about_content: 
-
+about_title: About Me
+about_profile_image: /assets/img/bala.jpg (eg. images/profile.jpg)
+about_content: <li>Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist</li>
 content:
-  - title: pro # Title for the section
+  - title: Professional Summary # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
