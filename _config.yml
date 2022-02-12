@@ -25,8 +25,7 @@ youtube_username: https://www.youtube.com/channel/UCcUEi-0ppMFqKsmXh0wwYhQ
 # About Section
 about_title: About M
 about_profile_image: Directory of profile imag (eg. images/profile.jpg)
-about_content: Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist and handled various roles like Technical Architect, Technical Lead, Technical engineer, Software Engineer, 
-and Application Support Engineer.
+about_content: 
 
 content:
   - title: pro # Title for the section
