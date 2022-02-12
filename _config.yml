@@ -26,31 +26,31 @@ youtube_username: https://www.youtube.com/channel/UCcUEi-0ppMFqKsmXh0wwYhQ
 about_title: Professional Summary
 about_profile_image: /assets/bala1.jpg
 about_content: <li>Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist</li>
-<li>Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist.<\li>
-<li>Handled various roles like Technical Architect, Technical Lead, Technical engineer, Software Engineer, and Application Support Engineer.<\li>
-<li>Patent filed on my own software “AN APPARATUS FOR PERFORMING ARITHMETIC OPERATIONS”. <\li>
-<li>Undergoing Executive PG Program in Machine learning & Deep learning in IIIM - Bangalore<\li>
-<li>Undergone AWS training and completed AWS Certified Solutions Architect - Associate level<\li>
-<li>Experience in implementing Continuous Integration and deployment using Jenkins, Chef & Git source code management tool <\li>
-<li>Extensive Experience in Python, Perl, Shell, Eclipse, HTML, CSS, XML, XSLT, Git, Jira. <\li>
-<li>Package & tool Development in Windows, Linux and Mac environments.<\li>
-<li>Having DevOps Strategy as a DevOps Engineer by being an in-charge for automating, building, configuring, deploying, releasing of code in different environments as well as fine-tuning on AWS cloud environment.<\li>
-<li>Build Customized Amazon Machine Images (AMIs) & deployed these customized images based on requirements<\li>
-<li>Experienced in Setting up Chef Server/Workstation and Bootstrapping Nodes. Wrote Wrapper cookbooks, recipes and utilized community cookbooks as well.<\li>
-<li>POC experience in implementing configuration management (CM) in Ansible. <\li>
-<li>Undergone Hadoop Data analysis training - certified by Cloudera and Xebia<\li>
-<li>Undergone training in Hadoop – HDFS, HIVE, HBASE, PIG, MAPREDUCE–streaming, Sqoop, flume.<\li>
-<li>Expertise in troubleshooting the problems generated while building, deploying also in production support.<\li>
-<li>Experience in different phases of SDLC, analysis, design, development, testing & implementation.<\li>
-<li>Worked with different development methodologies like waterfall and Agile.<\li>
-<li>Worked with major clients like Sempra, Telstra, BOFA, Comcast, Attabs, duke energy, Capital one, Verizon telecom, T-mobile, Rogers in Telecom domain <\li>
-<li>Worked with clients like PureStorage, HPE and Nimble Storage in storage domain.<\li>
-<li>Lead a team in e-pub product development.<\li>
-<li>Focused team player with ability to work under tight schedules meeting aggressive deadlines.<\li>
-<li>Effective communication and presentation skills with strong interpersonal skills.<\li>
-<li>Quick learner of new technologies and business processes.<\li>
-<li>Have been appreciated for full ownership of responsibilities and result oriented approach.<\li>
-<li>Bachelor’s Degree in engineering<\li>
+<li>Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist.</li>
+<li>Handled various roles like Technical Architect, Technical Lead, Technical engineer, Software Engineer, and Application Support Engineer.</li>
+<li>Patent filed on my own software “AN APPARATUS FOR PERFORMING ARITHMETIC OPERATIONS”. </li>
+<li>Undergoing Executive PG Program in Machine learning & Deep learning in IIIM - Bangalore</li>
+<li>Undergone AWS training and completed AWS Certified Solutions Architect - Associate level</li>
+<li>Experience in implementing Continuous Integration and deployment using Jenkins, Chef & Git source code management tool </li>
+<li>Extensive Experience in Python, Perl, Shell, Eclipse, HTML, CSS, XML, XSLT, Git, Jira. </li>
+<li>Package & tool Development in Windows, Linux and Mac environments.</li>
+<li>Having DevOps Strategy as a DevOps Engineer by being an in-charge for automating, building, configuring, deploying, releasing of code in different environments as well as fine-tuning on AWS cloud environment.</li>
+<li>Build Customized Amazon Machine Images (AMIs) & deployed these customized images based on requirements</li>
+<li>Experienced in Setting up Chef Server/Workstation and Bootstrapping Nodes. Wrote Wrapper cookbooks, recipes and utilized community cookbooks as well.</li>
+<li>POC experience in implementing configuration management (CM) in Ansible. </li>
+<li>Undergone Hadoop Data analysis training - certified by Cloudera and Xebia</li>
+<li>Undergone training in Hadoop – HDFS, HIVE, HBASE, PIG, MAPREDUCE–streaming, Sqoop, flume.</li>
+<li>Expertise in troubleshooting the problems generated while building, deploying also in production support.</li>
+<li>Experience in different phases of SDLC, analysis, design, development, testing & implementation.</li>
+<li>Worked with different development methodologies like waterfall and Agile.</li>
+<li>Worked with major clients like Sempra, Telstra, BOFA, Comcast, Attabs, duke energy, Capital one, Verizon telecom, T-mobile, Rogers in Telecom domain </li>
+<li>Worked with clients like PureStorage, HPE and Nimble Storage in storage domain.</li>
+<li>Lead a team in e-pub product development.</li>
+<li>Focused team player with ability to work under tight schedules meeting aggressive deadlines.</li>
+<li>Effective communication and presentation skills with strong interpersonal skills.</li>
+<li>Quick learner of new technologies and business processes.</li>
+<li>Have been appreciated for full ownership of responsibilities and result oriented approach.</li>
+<li>Bachelor’s Degree in engineering</li>
 content:
   - title: Professional Summary # Title for the section
     layout: list # Type of content section (list/text)
