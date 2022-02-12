@@ -24,7 +24,7 @@ youtube_username: https://www.youtube.com/channel/UCcUEi-0ppMFqKsmXh0wwYhQ
 
 # About Section
 about_title: About Me
-about_profile_image: /assets/img/bala.jpg (eg. images/profile.jpg)
+about_profile_image: /images/IMG-20201122-WA0020.jpg (eg. images/profile.jpg)
 about_content: <li>Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist</li>
 content:
   - title: Professional Summary # Title for the section
