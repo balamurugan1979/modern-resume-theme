@@ -25,10 +25,8 @@ youtube_username: https://www.youtube.com/channel/UCcUEi-0ppMFqKsmXh0wwYhQ
 # About Section
 about_title: Professional Summary
 about_profile_image: /assets/bala1.jpg
-about_content: <ul>
-  <li>Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist</li>
-  <li>Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist.</li>
-</ul>
+about_content: Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist
+Overall 16+ years of experience in Software Development, Modeling & Automation, Application Support, DevOps, Data Scientist
 
 content:
   - title: Professional Summary # Title for the section
